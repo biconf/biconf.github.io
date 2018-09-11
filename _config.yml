@@ -1,0 +1,14 @@
+title: Conference Deadlines for BI
+description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+author: Gi-Cheon Kang
+
+domain: "biconf.github.io"
+baseurl: ""
+
+twitter_username: abhshkdz
+twitter_hashtag: machinelearning
+github_username: biconf
+github_repo: biconf.github.io
+
+markdown: kramdown
+ga_id: UA-36274081-2
