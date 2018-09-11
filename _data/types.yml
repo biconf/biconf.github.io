@@ -7,5 +7,5 @@
   sub: NLP
 - name: Robotics
   sub: RO
-- name: Speech/SigProc
-  sub: SP
+- name: Cognitive Science
+  sub: Cog
