@@ -66,7 +66,7 @@
   id: iccv19
   link: https://iccv2019.org/
   deadline: "2019-03-22 23:59:59"
-  timezone: TBA
+  timezone: Etc/GMT+9
   date: October 27 - November 3, 2019
   place: Seoul, Korea
   sub: CV
@@ -76,7 +76,7 @@
   id: icra2019
   link: https://icra2019.org//
   deadline: "2018-09-15 23:59:59"
-  timezone: Etc/GMT
+  timezone: Etc/GMT-7
   date: May 20-24, 2019
   place: Montreal, Canada
   sub: RO
@@ -86,7 +86,7 @@
   id: iros2019
   link: http://www.iros2019.org
   deadline: "2019-03-01 23:59:59"
-  timezone: PST
+  timezone: Etc/GMT-8
   date: November 3-8, 2019
   place: Macau, China
   sub: RO
