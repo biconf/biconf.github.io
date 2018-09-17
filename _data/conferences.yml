@@ -27,40 +27,20 @@
   link: http://iclr.cc/
   deadline: "2018-09-27 16:59:59"
   timezone: EST
+  date: July 14-19, 2019
+  place: Budapest, Hungary
+  sub: ML
+  
+- name: IJCNN
+  year: 2019
+  id: ijcnn19
+  link: https://www.ijcnn.org
+  deadline: "2018-12-15 23:59:59"
+  timezone: TBA
   date: May 6-9, 2019
   place: New Orleans, Louisiana, US
   sub: ML
-
-#- name: IJCAI
-#  year: 2019
-#  id: ijcai19
-#  link: https://ijcai19.org/
-#  deadline: TBA
-#  timezone: TBA
-#  date: August 10-16, 2019
-#  place: Macao, China
-#  sub: ML
   
-#- name: AAAI
-#  year: 2020
-#  id: aaai20
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: TBA
-#  place: TBA
-#  sub: ML
-
-- name: AAAI SSS
-  year: 2019
-  id: aaai-sss19
-  link: https://aaai.org/Symposia/Spring/sss19.php
-  deadline: "2018-11-02 23:59:59"
-  timezone: America/Los_Angeles
-  date: March 25-27, 2019
-  place: Palo Alto, California
-  sub: ML
-
 #- name: ICMI
 #  year: 2019
 #  id: icmi19
@@ -70,6 +50,36 @@
 #  date: TBA
 #  place: TBA
 #  sub: ML  
+
+#- name: IJCAI
+#  year: 2019
+#  id: ijcai19
+#  link: https://ijcai19.org/
+#  deadline: TBA
+#  timezone: TBA
+#  date: August 10-16, 2019
+#  place: Macao, China
+#  sub: AI
+  
+#- name: AAAI
+#  year: 2020
+#  id: aaai20
+#  link: TBA
+#  deadline: TBA
+#  timezone: TBA
+#  date: TBA
+#  place: TBA
+#  sub: AI
+
+- name: AAAI SSS
+  year: 2019
+  id: aaai-sss19
+  link: https://aaai.org/Symposia/Spring/sss19.php
+  deadline: "2018-11-02 23:59:59"
+  timezone: America/Los_Angeles
+  date: March 25-27, 2019
+  place: Palo Alto, California
+  sub: AI
   
 - name: CVPR
   year: 2019
@@ -150,7 +160,47 @@
 #  date: July 24-27, 2019
 #  place: Montreal, Canada
 #  sub: Cog
-  
+
+#- name: AGI
+#  year: 2019
+#  id: cogsci19
+#  link: TBA
+#  deadline: TBA
+#  timezone: TBA
+#  date: July 24-27, 2019
+#  place: Montreal, Canada
+#  sub: Cog
+
+#- name: BICA
+#  year: 2019
+#  id: cogsci19
+#  link: TBA
+#  deadline: TBA
+#  timezone: TBA
+#  date: July 24-27, 2019
+#  place: Montreal, Canada
+#  sub: Cog
+
+- name: Cosyne
+  year: 2019
+  id: cosyne19
+  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
+  deadline: "2018-11-15 23:59:59"
+  timezone: Etc/GMT-1
+  date: Feb 28 - March 3, 2019
+  place: Lisbon, Portugal
+  sub: Brain
+
+- name: CNS
+  year: 2019
+  id: cns19
+  link: https://www.cogneurosociety.org/annual-meeting/
+  deadline: "2018-10-15 23:59:59"
+  timezone: Etc/GMT+12
+  date: March 23-26, 2019
+  place: Sanfrancisco, USA
+  sub: Brain
+
 #- name: CEC
 #  year: 2019
 #  id: cec19
@@ -159,7 +209,7 @@
 #  timezone: TBA
 #  date: June 10-13, 2019
 #  place: Wellington, New Zealand
-#  sub: DNA  
+#  sub: EC  
   
 - name: GECCO
   year: 2019
@@ -169,7 +219,7 @@
   timezone: Etc/GMT-2
   date: July 13-17, 2019
   place: Prague, Czech
-  sub: DNA 
+  sub: EC 
   
 # 
 # NIPS, ICML, ICLR, IJCAI, AAAI, CVPR, ECCV, ICCV, ACL, EMNLP, NAACL, ICRA, IROS ,,, BMVC, WACV
