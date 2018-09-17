@@ -131,5 +131,17 @@
 #  place: Montreal, Canada
 #  sub: Cog
   
+- name: CEC
+  year: 2019
+  id: cec19
+  link: TBA
+  deadline: TBA
+  timezone: TBA
+  date: June 10-13, 2019
+  place: Wellington, New Zealand
+  sub: DNA  
+  
+  
+  
 # 
 # NIPS, ICML, ICLR, IJCAI, AAAI, CVPR, ECCV, ICCV, ACL, EMNLP, NAACL, ICRA, IROS ,,, BMVC, WACV
