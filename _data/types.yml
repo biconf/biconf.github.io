@@ -5,10 +5,10 @@
   sub: AI
 - name: CV
   sub: CV
-- name: NLP
-  sub: NLP
 - name: RO
   sub: RO
+- name: NLP
+  sub: NLP
 - name: Cog
   sub: Cog
 - name: Brain
