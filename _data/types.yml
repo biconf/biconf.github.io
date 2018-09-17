@@ -9,3 +9,5 @@
   sub: RO
 - name: Cognitive Science
   sub: Cog
+- name: DNA Computing
+  sub: DNA
