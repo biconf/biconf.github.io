@@ -1,6 +1,8 @@
 ---
 - name: Machine Learning
   sub: ML
+- name: AI
+  sub: AI
 - name: Computer Vision
   sub: CV
 - name: Natural Language Processing
@@ -9,5 +11,7 @@
   sub: RO
 - name: Cognitive Science
   sub: Cog
-- name: DNA Computing
-  sub: DNA
+- name: Neuro Science
+  sub: Neuro
+- name: Evolutionary Computing
+  sub: EC
