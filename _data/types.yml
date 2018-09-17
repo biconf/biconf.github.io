@@ -11,7 +11,7 @@
   sub: RO
 - name: Cognitive Science
   sub: Cog
-- name: Neuro Science
-  sub: Neuro
+- name: Brain Science
+  sub: Brain
 - name: Evolutionary Computing
   sub: EC
