@@ -3,10 +3,10 @@
   sub: ML
 - name: AI
   sub: AI
-- name: CV
-  sub: CV
 - name: RO
   sub: RO
+- name: CV
+  sub: CV
 - name: NLP
   sub: NLP
 - name: Cog
