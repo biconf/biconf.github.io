@@ -31,6 +31,16 @@
   place: New Orleans, Louisiana, US
   sub: ML
   
+- name: IJCAI
+  year: 2019
+  id: ijcai19
+  link: https://ijcai19.org/
+  deadline: "2019-02-25 23:59:59"
+  timezone: Etc/GMT
+  date: August 10-16, 2019
+  place: Macao, China
+  sub: AI
+
 - name: IJCNN
   year: 2019
   id: ijcnn19
@@ -50,16 +60,6 @@
 #  date: TBA
 #  place: TBA
 #  sub: ML  
-
-#- name: IJCAI
-#  year: 2019
-#  id: ijcai19
-#  link: https://ijcai19.org/
-#  deadline: TBA
-#  timezone: TBA
-#  date: August 10-16, 2019
-#  place: Macao, China
-#  sub: AI
   
 #- name: AAAI
 #  year: 2020
