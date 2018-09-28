@@ -21,15 +21,15 @@
 #  place: Long Beach Convention Center, Long Beach, USA
 #  sub: ML
   
-- name: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: "2018-09-27 16:59:59"
-  timezone: EST
-  date: May 6-9, 2019
-  place: New Orleans, Louisiana, US
-  sub: ML
+#- name: ICLR
+#  year: 2019
+#  id: iclr19
+#  link: http://iclr.cc/
+#  deadline: "2018-09-27 16:59:59"
+#  timezone: EST
+#  date: May 6-9, 2019
+#  place: New Orleans, Louisiana, US
+#  sub: ML
   
 - name: IJCAI
   year: 2019
