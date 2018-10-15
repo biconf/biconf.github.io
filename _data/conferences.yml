@@ -121,6 +121,16 @@
   place: Macau, China
   sub: RO
 
+#- name: CoRL
+#  year: 2019
+#  id: corl2019
+#  link: 
+#  deadline: 
+#  timezone: 
+#  date: 
+#  place: 
+#  sub: RO
+
 - name: ACL
   year: 2019
   id: acl19
