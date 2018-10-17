@@ -51,15 +51,15 @@
   place: Budapest, Hungary
   sub: ML
   
-#- name: ICMI
-#  year: 2019
-#  id: icmi19
-#  link: https://icmi.acm.org/2019/
-#  deadline: TBA
-#  timezone: TBA
-#  date: TBA
-#  place: TBA
-#  sub: ML  
+- name: ICMI
+  year: 2019
+  id: icmi19
+  link: https://icmi.acm.org/2019/index.php?id=home
+  deadline: "2019-05-07 23:59:59"
+  timezone: TBA
+  date: October 14-18, 2019
+  place: Suzhou, China
+  sub: ML  
   
 #- name: AAAI
 #  year: 2020
@@ -201,15 +201,15 @@
   place: Lisbon, Portugal
   sub: Brain
 
-- name: CNS
-  year: 2019
-  id: cns19
-  link: https://www.cogneurosociety.org/annual-meeting/
-  deadline: "2018-10-15 23:59:59"
-  timezone: Etc/GMT+12
-  date: March 23-26, 2019
-  place: Sanfrancisco, USA
-  sub: Brain
+#- name: CNS
+#  year: 2019
+#  id: cns19
+#  link: https://www.cogneurosociety.org/annual-meeting/
+#  deadline: "2018-10-15 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: March 23-26, 2019
+#  place: Sanfrancisco, USA
+#  sub: Brain
 
 #- name: CEC
 #  year: 2019
