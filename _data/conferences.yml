@@ -101,6 +101,16 @@
   place: Seoul, Korea
   sub: CV
   
+- name: BMVC
+  year: 2019
+  id: bmvc19
+  link: https://bmvc2019.org/
+  deadline: "2019-04-29 23:59:59"
+  timezone: America/Los_Angeles
+  date: September 10-12, 2019
+  place: Cardiff, United Kingdom
+  sub: CV
+  
 - name: RSS
   year: 2019
   id: rss19
