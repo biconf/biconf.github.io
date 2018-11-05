@@ -71,15 +71,15 @@
 #  place: TBA
 #  sub: AI
 
-- name: AAAI SSS
-  year: 2019
-  id: aaai-sss19
-  link: https://aaai.org/Symposia/Spring/sss19.php
-  deadline: "2018-11-02 23:59:59"
-  timezone: America/Los_Angeles
-  date: March 25-27, 2019
-  place: Palo Alto, California
-  sub: AI
+#- name: AAAI SSS
+#  year: 2019
+#  id: aaai-sss19
+#  link: https://aaai.org/Symposia/Spring/sss19.php
+#  deadline: "2018-11-02 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: March 25-27, 2019
+#  place: Palo Alto, California
+#  sub: AI
   
 - name: CVPR
   year: 2019
@@ -175,7 +175,7 @@
   year: 2019
   id: cogsci19
   link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
-  deadline: "2018-02-01 23:59:59"
+  deadline: "2019-02-01 23:59:59"
   timezone: Etc/GMT+11
   date: July 24-27, 2019
   place: Montreal, Canada
