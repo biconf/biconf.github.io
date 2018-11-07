@@ -8,7 +8,7 @@
 #  place: TBA
 #  sub: ML
   
-  name: ICML
+- name: ICML
   year: 2019
   id: icml19
   link: https://icml.cc/Conferences/2019
