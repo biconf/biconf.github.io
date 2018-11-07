@@ -8,15 +8,15 @@
 #  place: TBA
 #  sub: ML
   
-name: ICML
-year: 2019
-id: icml19
-link: https://icml.cc/Conferences/2019
-deadline: "2019-01-23 15:59:59"
-timezone: America/Los_Angeles
-date: June 10-15, 2019
-place: Long Beach Convention Center, Long Beach, USA
-sub: ML
+  name: ICML
+  year: 2019
+  id: icml19
+  link: https://icml.cc/Conferences/2019
+  deadline: "2019-01-23 15:59:59"
+  timezone: America/Los_Angeles
+  date: June 10-15, 2019
+  place: Long Beach Convention Center, Long Beach, USA
+  sub: ML
   
 #- name: ICLR
 #  year: 2019
@@ -28,7 +28,7 @@ sub: ML
 #  place: New Orleans, Louisiana, US
 #  sub: ML
   
-- name: IJCAI
+  name: IJCAI
   year: 2019
   id: ijcai19
   link: https://ijcai19.org/
@@ -38,7 +38,7 @@ sub: ML
   place: Macao, China
   sub: AI
 
-- name: IJCNN
+  name: IJCNN
   year: 2019
   id: ijcnn19
   link: https://www.ijcnn.org
@@ -48,7 +48,7 @@ sub: ML
   place: Budapest, Hungary
   sub: ML
   
-- name: ICMI
+  name: ICMI
   year: 2019
   id: icmi19
   link: https://icmi.acm.org/2019/index.php?id=home
@@ -78,7 +78,7 @@ sub: ML
 #  place: Palo Alto, California
 #  sub: AI
   
-- name: CVPR
+  name: CVPR
   year: 2019
   id: cvpr19
   link: http://cvpr2019.thecvf.com/
@@ -88,7 +88,7 @@ sub: ML
   place: Long Beach, USA
   sub: CV
   
-- name: ICCV
+  name: ICCV
   year: 2019
   id: iccv19
   link: http://iccv2019.thecvf.com
@@ -98,7 +98,7 @@ sub: ML
   place: Seoul, Korea
   sub: CV
   
-- name: BMVC
+  name: BMVC
   year: 2019
   id: bmvc19
   link: https://bmvc2019.org/
@@ -108,7 +108,7 @@ sub: ML
   place: Cardiff, United Kingdom
   sub: CV
   
-- name: RSS
+  name: RSS
   year: 2019
   id: rss19
   link: http://www.roboticsconference.org/
@@ -128,7 +128,7 @@ sub: ML
 #  place: Montreal, Canada
 #  sub: RO
 
-- name: IROS
+  name: IROS
   year: 2019
   id: iros2019
   link: http://www.iros2019.org
@@ -148,7 +148,7 @@ sub: ML
 #  place: 
 #  sub: RO
 
-- name: ACL
+  name: ACL
   year: 2019
   id: acl19
   link: http://acl2019.org/
@@ -168,7 +168,7 @@ sub: ML
 #  place: TBA
 #  sub: NLP
   
-- name: NAACL
+  name: NAACL
   year: 2019
   id: naacl19
   link: http://naacl2019.org/
@@ -178,7 +178,7 @@ sub: ML
   place: Minneapolis, USA
   sub: NLP
 
-- name: CogSci
+  name: CogSci
   year: 2019
   id: cogsci19
   link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
@@ -208,7 +208,7 @@ sub: ML
 #  place: Montreal, Canada
 #  sub: Cog
 
-- name: Cosyne
+  name: Cosyne
   year: 2019
   id: cosyne19
   link: http://www.cosyne.org/c/index.php?title=Cosyne_19
@@ -238,7 +238,7 @@ sub: ML
 #  place: Wellington, New Zealand
 #  sub: EC  
   
-- name: GECCO
+  name: GECCO
   year: 2019
   id: gecco19
   link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
