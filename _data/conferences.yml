@@ -116,7 +116,7 @@
   timezone: America/Los_Angeles
   date: June 22-26, 2019
   place: Freiburg, Germany
-  sub: RO  
+  sub: RO
   
 #- name: ICRA
 #  year: 2019
@@ -186,7 +186,7 @@
   timezone: Etc/GMT+11
   date: July 24-27, 2019
   place: Montreal, Canada
-  sub: Cog
+  sub: COG
 
 #- name: AGI
 #  year: 2019
@@ -216,7 +216,7 @@
   timezone: Etc/GMT-1
   date: Feb 28 - March 3, 2019
   place: Lisbon, Portugal
-  sub: Brain
+  sub: BRAIN
 
 #- name: CNS
 #  year: 2019
@@ -246,7 +246,7 @@
   timezone: Etc/GMT+10
   date: July 13-17, 2019
   place: Prague, Czech
-  sub: EC 
+  sub: EC
   
 # 
 # NIPS, ICML, ICLR, IJCAI, AAAI, CVPR, ECCV, ICCV, ACL, EMNLP, NAACL, ICRA, IROS ,,, BMVC, WACV
