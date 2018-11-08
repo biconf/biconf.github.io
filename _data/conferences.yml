@@ -178,7 +178,7 @@
   place: Minneapolis, USA
   sub: NLP
 
-- name: CogSci
+- name: COGSCI
   year: 2019
   id: cogsci19
   link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
@@ -208,7 +208,7 @@
 #  place: Montreal, Canada
 #  sub: Cog
 
-- name: Cosyne
+- name: COSYNE
   year: 2019
   id: cosyne19
   link: http://www.cosyne.org/c/index.php?title=Cosyne_19
@@ -228,15 +228,15 @@
 #  place: Sanfrancisco, USA
 #  sub: Brain
 
-#- name: CEC
-#  year: 2019
-#  id: cec19
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: June 10-13, 2019
-#  place: Wellington, New Zealand
-#  sub: EC  
+- name: CEC
+  year: 2019
+  id: cec19
+  link: http://cec2019.org/index.html
+  deadline: "2019-01-07 23:59:59"
+  timezone: TBA
+  date: June 10-13, 2019
+  place: Wellington, New Zealand
+  sub: EC
   
 - name: GECCO
   year: 2019
@@ -247,6 +247,3 @@
   date: July 13-17, 2019
   place: Prague, Czech
   sub: EC
-  
-# 
-# NIPS, ICML, ICLR, IJCAI, AAAI, CVPR, ECCV, ICCV, ACL, EMNLP, NAACL, ICRA, IROS ,,, BMVC, WACV
