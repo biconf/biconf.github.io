@@ -7,26 +7,6 @@
 #  date: TBA
 #  place: TBA
 #  sub: ML
-
-- name: COSYNE
-  year: 2019
-  id: cosyne19
-  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
-  deadline: "2018-11-15 23:59:59"
-  timezone: Etc/GMT-1
-  date: Feb 28 - March 3, 2019
-  place: Lisbon, Portugal
-  sub: BRAIN
-
-- name: CVPR
-  year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: "2018-11-16 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 15-21, 2019
-  place: Long Beach, USA
-  sub: CV
   
 - name: NAACL
   year: 2019
@@ -247,3 +227,23 @@
 #  date: March 23-26, 2019
 #  place: Sanfrancisco, USA
 #  sub: Brain
+
+#- name: COSYNE
+#  year: 2019
+#  id: cosyne19
+#  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
+#  deadline: "2018-11-15 23:59:59"
+#  timezone: Etc/GMT-1
+#  date: Feb 28 - March 3, 2019
+#  place: Lisbon, Portugal
+#  sub: BRAIN
+
+#- name: CVPR
+#  year: 2019
+#  id: cvpr19
+#  link: http://cvpr2019.thecvf.com/
+#  deadline: "2018-11-16 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: June 15-21, 2019
+#  place: Long Beach, USA
+#  sub: CV
