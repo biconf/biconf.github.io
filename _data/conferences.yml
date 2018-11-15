@@ -7,6 +7,56 @@
 #  date: TBA
 #  place: TBA
 #  sub: ML
+
+- name: COSYNE
+  year: 2019
+  id: cosyne19
+  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
+  deadline: "2018-11-15 23:59:59"
+  timezone: Etc/GMT-1
+  date: Feb 28 - March 3, 2019
+  place: Lisbon, Portugal
+  sub: BRAIN
+
+- name: CVPR
+  year: 2019
+  id: cvpr19
+  link: http://cvpr2019.thecvf.com/
+  deadline: "2018-11-16 23:59:59"
+  timezone: America/Los_Angeles
+  date: June 15-21, 2019
+  place: Long Beach, USA
+  sub: CV
+  
+- name: NAACL
+  year: 2019
+  id: naacl19
+  link: http://naacl2019.org/
+  deadline: "2018-12-10 23:59:59"
+  timezone: Etc/GMT+12
+  date: June 2-7, 2019
+  place: Minneapolis, USA
+  sub: NLP
+
+- name: IJCNN
+  year: 2019
+  id: ijcnn19
+  link: https://www.ijcnn.org
+  deadline: "2018-12-15 23:59:59"
+  timezone: TBA
+  date: July 14-19, 2019
+  place: Budapest, Hungary
+  sub: ML
+  
+- name: CEC
+  year: 2019
+  id: cec19
+  link: http://cec2019.org/index.html
+  deadline: "2019-01-07 23:59:59"
+  timezone: TBA
+  date: June 10-13, 2019
+  place: Wellington, New Zealand
+  sub: EC
   
 - name: ICML
   year: 2019
@@ -28,6 +78,36 @@
 #  place: New Orleans, Louisiana, US
 #  sub: ML
   
+- name: COGSCI
+  year: 2019
+  id: cogsci19
+  link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
+  deadline: "2019-02-01 23:59:59"
+  timezone: Etc/GMT+11
+  date: July 24-27, 2019
+  place: Montreal, Canada
+  sub: COG
+  
+- name: RSS
+  year: 2019
+  id: rss19
+  link: http://www.roboticsconference.org/
+  deadline: "2019-02-01 23:59:00"
+  timezone: America/Los_Angeles
+  date: June 22-26, 2019
+  place: Freiburg, Germany
+  sub: RO
+  
+- name: GECCO
+  year: 2019
+  id: gecco19
+  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
+  deadline: "2019-02-06 23:59:59"
+  timezone: Etc/GMT+10
+  date: July 13-17, 2019
+  place: Prague, Czech
+  sub: EC
+  
 - name: IJCAI
   year: 2019
   id: ijcai19
@@ -37,16 +117,6 @@
   date: August 10-16, 2019
   place: Macao, China
   sub: AI
-
-- name: IJCNN
-  year: 2019
-  id: ijcnn19
-  link: https://www.ijcnn.org
-  deadline: "2018-12-15 23:59:59"
-  timezone: TBA
-  date: July 14-19, 2019
-  place: Budapest, Hungary
-  sub: ML
   
 - name: ICMI
   year: 2019
@@ -77,16 +147,26 @@
 #  date: March 25-27, 2019
 #  place: Palo Alto, California
 #  sub: AI
-  
-- name: CVPR
+
+- name: IROS
   year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: "2018-11-16 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 15-21, 2019
-  place: Long Beach, USA
-  sub: CV
+  id: iros2019
+  link: http://www.iros2019.org
+  deadline: "2019-03-01 23:59:59"
+  timezone: Etc/GMT+8
+  date: November 3-8, 2019
+  place: Macau, China
+  sub: RO
+  
+- name: ACL
+  year: 2019
+  id: acl19
+  link: http://acl2019.org/
+  deadline: "2019-03-04 23:59:59"
+  timezone: Etc/GMT+12
+  date: July 28-August 2, 2019
+  place: Florence, Italy
+  sub: NLP
   
 - name: ICCV
   year: 2019
@@ -108,16 +188,6 @@
   place: Cardiff, UK
   sub: CV
   
-- name: RSS
-  year: 2019
-  id: rss19
-  link: http://www.roboticsconference.org/
-  deadline: "2019-02-01 23:59:00"
-  timezone: America/Los_Angeles
-  date: June 22-26, 2019
-  place: Freiburg, Germany
-  sub: RO
-  
 #- name: ICRA
 #  year: 2019
 #  id: icra2019
@@ -128,16 +198,6 @@
 #  place: Montreal, Canada
 #  sub: RO
 
-- name: IROS
-  year: 2019
-  id: iros2019
-  link: http://www.iros2019.org
-  deadline: "2019-03-01 23:59:59"
-  timezone: Etc/GMT+8
-  date: November 3-8, 2019
-  place: Macau, China
-  sub: RO
-
 #- name: CoRL
 #  year: 2019
 #  id: corl2019
@@ -147,16 +207,6 @@
 #  date: 
 #  place: 
 #  sub: RO
-
-- name: ACL
-  year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: "2019-03-04 23:59:59"
-  timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
-  sub: NLP
   
 #- name: EMNLP
 #  year: 2019
@@ -167,26 +217,6 @@
 #  date: TBA
 #  place: TBA
 #  sub: NLP
-  
-- name: NAACL
-  year: 2019
-  id: naacl19
-  link: http://naacl2019.org/
-  deadline: "2018-12-10 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2-7, 2019
-  place: Minneapolis, USA
-  sub: NLP
-
-- name: COGSCI
-  year: 2019
-  id: cogsci19
-  link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
-  deadline: "2019-02-01 23:59:59"
-  timezone: Etc/GMT+11
-  date: July 24-27, 2019
-  place: Montreal, Canada
-  sub: COG
 
 #- name: AGI
 #  year: 2019
@@ -208,16 +238,6 @@
 #  place: Montreal, Canada
 #  sub: Cog
 
-- name: COSYNE
-  year: 2019
-  id: cosyne19
-  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
-  deadline: "2018-11-15 23:59:59"
-  timezone: Etc/GMT-1
-  date: Feb 28 - March 3, 2019
-  place: Lisbon, Portugal
-  sub: BRAIN
-
 #- name: CNS
 #  year: 2019
 #  id: cns19
@@ -227,23 +247,3 @@
 #  date: March 23-26, 2019
 #  place: Sanfrancisco, USA
 #  sub: Brain
-
-- name: CEC
-  year: 2019
-  id: cec19
-  link: http://cec2019.org/index.html
-  deadline: "2019-01-07 23:59:59"
-  timezone: TBA
-  date: June 10-13, 2019
-  place: Wellington, New Zealand
-  sub: EC
-  
-- name: GECCO
-  year: 2019
-  id: gecco19
-  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-  deadline: "2019-02-06 23:59:59"
-  timezone: Etc/GMT+10
-  date: July 13-17, 2019
-  place: Prague, Czech
-  sub: EC
