@@ -119,6 +119,16 @@
   place: Cardiff, UK
   sub: CV
 
+- name: EMNLP
+  year: 2019
+  id: emnlp19
+  link: https://www.emnlp-ijcnlp2019.org/
+  deadline: "2019-05-21 23:59:59"
+  timezone: TBA
+  date: November 5-7, 2019
+  place: Hong Kong, China
+  sub: NLP
+
 #- name: NIPS
 #  year: 2019
 #  id: nips19
