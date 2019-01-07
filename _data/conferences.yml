@@ -1,14 +1,4 @@
-  
-- name: CEC
-  year: 2019
-  id: cec19
-  link: http://cec2019.org/index.html
-  deadline: "2019-01-07 23:59:59"
-  timezone: TBA
-  date: June 10-13, 2019
-  place: Wellington, New Zealand
-  sub: EC
-  
+    
 - name: ICML
   year: 2019
   id: icml19
@@ -118,6 +108,16 @@
   date: November 5-7, 2019
   place: Hong Kong, China
   sub: NLP
+  
+- name: HCOMP
+  year: 2019
+  id: hcomp19
+  link: https://www.humancomputation.com
+  deadline: "2019-06-05 16:59:59"
+  timezone: EST
+  date: October 29-30, 2019
+  place: Skamania Lodge, USA
+  sub: AI
 
 #- name: NIPS
 #  year: 2019
@@ -148,16 +148,6 @@
 #  date: 
 #  place: 
 #  sub: RO
-  
-#- name: EMNLP
-#  year: 2019
-#  id: emnlp19
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: TBA
-#  place: TBA
-#  sub: NLP
 
 #- name: AGI
 #  year: 2019
@@ -258,3 +248,13 @@
 #  date: July 14-19, 2019
 #  place: Budapest, Hungary
 #  sub: ML
+
+#- name: CEC
+#  year: 2019
+#  id: cec19
+#  link: http://cec2019.org/index.html
+#  deadline: "2019-01-07 23:59:59"
+#  timezone: TBA
+#  date: June 10-13, 2019
+#  place: Wellington, New Zealand
+#  sub: EC
