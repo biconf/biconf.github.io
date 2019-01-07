@@ -109,15 +109,15 @@
   place: Hong Kong, China
   sub: NLP
   
-- name: HCOMP
-  year: 2019
-  id: hcomp19
-  link: https://www.humancomputation.com
-  deadline: "2019-06-05 16:59:59"
-  timezone: EST
-  date: October 29-30, 2019
-  place: Skamania Lodge, USA
-  sub: AI
+#- name: HCOMP
+#  year: 2019
+#  id: hcomp19
+#  link: https://www.humancomputation.com
+#  deadline: "2019-06-05 16:59:59"
+#  timezone: EST
+#  date: October 29-30, 2019
+#  place: Skamania Lodge, USA
+#  sub: AI
 
 #- name: NIPS
 #  year: 2019
