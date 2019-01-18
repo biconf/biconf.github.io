@@ -1,14 +1,4 @@
     
-- name: IJCNN
-  year: 2019
-  id: ijcnn19
-  link: https://www.ijcnn.org
-  deadline: "2019-01-15 23:59:59"
-  timezone: TBA
-  date: July 14-19, 2019
-  place: Budapest, Hungary
-  sub: ML
-
 - name: ICML
   year: 2019
   id: icml19
@@ -258,3 +248,13 @@
 #  date: June 10-13, 2019
 #  place: Wellington, New Zealand
 #  sub: EC
+
+#- name: IJCNN
+#  year: 2019
+#  id: ijcnn19
+#  link: https://www.ijcnn.org
+#  deadline: "2019-01-15 23:59:59"
+#  timezone: TBA
+#  date: July 14-19, 2019
+#  place: Budapest, Hungary
+#  sub: ML
