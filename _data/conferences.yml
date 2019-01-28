@@ -1,14 +1,4 @@
-    
-- name: ICML
-  year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: "2019-01-23 15:59:59"
-  timezone: America/Los_Angeles
-  date: June 10-15, 2019
-  place: Long Beach, USA
-  sub: ML
-  
+      
 - name: COGSCI
   year: 2019
   id: cogsci19
@@ -257,4 +247,14 @@
 #  timezone: TBA
 #  date: July 14-19, 2019
 #  place: Budapest, Hungary
+#  sub: ML
+
+#- name: ICML
+#  year: 2019
+#  id: icml19
+#  link: https://icml.cc/Conferences/2019
+#  deadline: "2019-01-23 15:59:59"
+#  timezone: America/Los_Angeles
+#  date: June 10-15, 2019
+#  place: Long Beach, USA
 #  sub: ML
