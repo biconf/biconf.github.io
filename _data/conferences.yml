@@ -1,34 +1,4 @@
-      
-- name: COGSCI
-  year: 2019
-  id: cogsci19
-  link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
-  deadline: "2019-02-01 23:59:59"
-  timezone: Etc/GMT+11
-  date: July 24-27, 2019
-  place: Montreal, Canada
-  sub: COG
-  
-- name: RSS
-  year: 2019
-  id: rss19
-  link: http://www.roboticsconference.org/
-  deadline: "2019-02-01 23:59:00"
-  timezone: America/Los_Angeles
-  date: June 22-26, 2019
-  place: Freiburg, Germany
-  sub: RO
-  
-- name: GECCO
-  year: 2019
-  id: gecco19
-  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-  deadline: "2019-02-06 23:59:59"
-  timezone: Etc/GMT+10
-  date: July 13-17, 2019
-  place: Prague, Czech
-  sub: EC
-  
+        
 - name: IJCAI
   year: 2019
   id: ijcai19
@@ -98,6 +68,17 @@
   date: November 5-7, 2019
   place: Hong Kong, China
   sub: NLP
+
+- name: NeurIPS
+  year: 2019
+  id: neurips2019
+  link: https://neurips.cc/Conferences/2019
+  deadline: "2019-05-23 23:59:59"
+  timezone: TBA
+  date: TBA
+  place: Montreal, Canada
+  sub: ML
+  
   
 #- name: HCOMP
 #  year: 2019
@@ -108,16 +89,6 @@
 #  date: October 29-30, 2019
 #  place: Skamania Lodge, USA
 #  sub: AI
-
-#- name: NIPS
-#  year: 2019
-#  id: nips19
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: TBA
-#  place: TBA
-#  sub: ML
 
 #- name: ICRA
 #  year: 2019
@@ -258,3 +229,33 @@
 #  date: June 10-15, 2019
 #  place: Long Beach, USA
 #  sub: ML
+
+#- name: COGSCI
+#  year: 2019
+#  id: cogsci19
+#  link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
+#  deadline: "2019-02-01 23:59:59"
+#  timezone: Etc/GMT+11
+#  date: July 24-27, 2019
+#  place: Montreal, Canada
+#  sub: COG
+  
+#- name: RSS
+#  year: 2019
+#  id: rss19
+#  link: http://www.roboticsconference.org/
+#  deadline: "2019-02-01 23:59:00"
+#  timezone: America/Los_Angeles
+#  date: June 22-26, 2019
+#  place: Freiburg, Germany
+#  sub: RO
+  
+#- name: GECCO
+#  year: 2019
+#  id: gecco19
+#  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
+#  deadline: "2019-02-06 23:59:59"
+#  timezone: Etc/GMT+10
+#  date: July 13-17, 2019
+#  place: Prague, Czech
+#  sub: EC
