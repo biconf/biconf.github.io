@@ -71,7 +71,7 @@
 
 - name: NeurIPS
   year: 2019
-  id: neurips2019
+  id: neurips19
   link: https://neurips.cc/Conferences/2019
   deadline: "2019-05-23 23:59:59"
   timezone: TBA
