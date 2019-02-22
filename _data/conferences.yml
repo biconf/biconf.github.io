@@ -4,7 +4,7 @@
   id: ijcai19
   link: https://ijcai19.org/
   deadline: "2019-02-25 23:59:59"
-  timezone: Etc/GMT
+  timezone: Etc/GMT+12
   date: August 10-16, 2019
   place: Macao, China
   sub: AI
@@ -14,7 +14,7 @@
   id: iros2019
   link: http://www.iros2019.org
   deadline: "2019-03-01 23:59:59"
-  timezone: Etc/GMT+8
+  timezone: America/Los_Angeles
   date: November 3-8, 2019
   place: Macau, China
   sub: RO
@@ -34,7 +34,7 @@
   id: iccv19
   link: http://iccv2019.thecvf.com
   deadline: "2019-03-22 23:59:59"
-  timezone: Etc/GMT-9
+  timezone: US/Pacific
   date: October 27 - November 3, 2019
   place: Seoul, Korea
   sub: CV
@@ -64,7 +64,7 @@
   id: emnlp19
   link: https://www.emnlp-ijcnlp2019.org/
   deadline: "2019-05-21 23:59:59"
-  timezone: TBA
+  timezone: Etc/GMT-7
   date: November 5-7, 2019
   place: Hong Kong, China
   sub: NLP
@@ -74,7 +74,7 @@
   id: neurips19
   link: https://neurips.cc/Conferences/2019
   deadline: "2019-05-23 23:59:59"
-  timezone: TBA
+  timezone: America/Los_Angeles
   date: TBA
   place: Vancouver, Canada
   sub: ML
