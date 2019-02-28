@@ -1,14 +1,4 @@
-        
-- name: IJCAI
-  year: 2019
-  id: ijcai19
-  link: https://ijcai19.org/
-  deadline: "2019-02-25 23:59:59"
-  timezone: Etc/GMT+12
-  date: August 10-16, 2019
-  place: Macao, China
-  sub: AI
-  
+          
 - name: IROS
   year: 2019
   id: iros2019
@@ -79,6 +69,15 @@
   place: Vancouver, Canada
   sub: ML
   
+- name: CoRL
+  year: 2019
+  id: corl2019
+  link: https://www.robot-learning.org/
+  deadline: "2019-07-07 23:59:59"
+  timezone: Etc/GMT
+  date: October 30 - November 1, 2019
+  place: Osaka, Japan
+  sub: RO  
   
 #- name: HCOMP
 #  year: 2019
@@ -98,16 +97,6 @@
 #  timezone: Etc/GMT+4
 #  date: May 20-24, 2019
 #  place: Montreal, Canada
-#  sub: RO
-
-#- name: CoRL
-#  year: 2019
-#  id: corl2019
-#  link: 
-#  deadline: 
-#  timezone: 
-#  date: 
-#  place: 
 #  sub: RO
 
 #- name: AGI
@@ -259,3 +248,13 @@
 #  date: July 13-17, 2019
 #  place: Prague, Czech
 #  sub: EC
+
+#- name: IJCAI
+#  year: 2019
+#  id: ijcai19
+#  link: https://ijcai19.org/
+#  deadline: "2019-02-25 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: August 10-16, 2019
+#  place: Macao, China
+#  sub: AI
