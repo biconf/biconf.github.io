@@ -1,13 +1,3 @@
-            
-- name: ACL
-  year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: "2019-03-04 23:59:59"
-  timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
-  sub: NLP
   
 - name: ICCV
   year: 2019
@@ -268,3 +258,13 @@
 #  date: November 3-8, 2019
 #  place: Macau, China
 #  sub: RO
+
+#- name: ACL
+#  year: 2019
+#  id: acl19
+#  link: http://acl2019.org/
+#  deadline: "2019-03-04 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: July 28-August 2, 2019
+#  place: Florence, Italy
+#  sub: NLP
