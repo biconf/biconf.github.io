@@ -48,16 +48,6 @@
   date: TBA
   place: Vancouver, Canada
   sub: ML
-
-- name: CoNLL
-  year: 2019
-  id: conll2019
-  link: http://www.conll.org/2019
-  deadline: '2019-05-31 23:59:59'
-  timezone: Etc/GMT+12
-  date: November 3-4, 2019
-  place: Hong Kong, China
-  sub: NLP
   
 - name: CoRL
   year: 2019
