@@ -1,14 +1,4 @@
-  
-- name: ICCV
-  year: 2019
-  id: iccv19
-  link: http://iccv2019.thecvf.com
-  deadline: "2019-03-22 23:59:59"
-  timezone: US/Pacific
-  date: October 27 - November 3, 2019
-  place: Seoul, Korea
-  sub: CV
-  
+    
 - name: ACML
   year: 2019
   id: acml19
@@ -268,3 +258,13 @@
 #  date: July 28-August 2, 2019
 #  place: Florence, Italy
 #  sub: NLP
+
+#- name: ICCV
+#  year: 2019
+#  id: iccv19
+#  link: http://iccv2019.thecvf.com
+#  deadline: "2019-03-22 23:59:59"
+#  timezone: US/Pacific
+#  date: October 27 - November 3, 2019
+#  place: Seoul, Korea
+#  sub: CV
