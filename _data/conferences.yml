@@ -59,14 +59,14 @@
   place: Osaka, Japan
   sub: RO
   
-- name: AAAI FSS
+- name: AAAI-FSS
   year: 2019
   id: aaai-fss19
   link: https://aaai.org/Symposia/Fall/fss19.php
   deadline: "2019-07-26 23:59:59"
   timezone: TBA
   date: November 7-9, 2019
-  place: DC, Washington
+  place: Washington DC, USA
   sub: AI
   
 #- name: HCOMP
