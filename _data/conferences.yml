@@ -1,14 +1,4 @@
-    
-- name: ACML
-  year: 2019
-  id: acml19
-  link: http://www.acml-conf.org/2019/
-  deadline: "2019-04-15 23:59:59"
-  timezone: US/Pacific
-  date: November 17-19, 2019
-  place: Nagoya, Japan
-  sub: ML
-  
+      
 - name: BMVC
   year: 2019
   id: bmvc19
@@ -278,3 +268,13 @@
 #  date: October 27 - November 3, 2019
 #  place: Seoul, Korea
 #  sub: CV
+
+#- name: ACML
+#  year: 2019
+#  id: acml19
+#  link: http://www.acml-conf.org/2019/
+#  deadline: "2019-04-15 23:59:59"
+#  timezone: US/Pacific
+#  date: November 17-19, 2019
+#  place: Nagoya, Japan
+#  sub: ML
