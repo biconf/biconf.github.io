@@ -1,14 +1,4 @@
       
-- name: BMVC
-  year: 2019
-  id: bmvc19
-  link: https://bmvc2019.org/
-  deadline: "2019-04-29 23:59:59"
-  timezone: America/Los_Angeles
-  date: September 10-12, 2019
-  place: Cardiff, UK
-  sub: CV
-
 - name: ICMI
   year: 2019
   id: icmi19
@@ -278,3 +268,13 @@
 #  date: November 17-19, 2019
 #  place: Nagoya, Japan
 #  sub: ML
+
+#- name: BMVC
+#  year: 2019
+#  id: bmvc19
+#  link: https://bmvc2019.org/
+#  deadline: "2019-04-29 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: September 10-12, 2019
+#  place: Cardiff, UK
+#  sub: CV
