@@ -114,10 +114,10 @@ footer {
 .conf-sub {
   color: rgb(36, 101, 191);
   background: rgba(236, 240, 241, 0.7);
-  font-size: 13px;
+  font-size: 15px;
   padding: 3px 5px;
   cursor: pointer;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .conf-sub::selection {
