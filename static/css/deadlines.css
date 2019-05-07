@@ -46,6 +46,10 @@ h3 {
   margin-top: 20px;
 }
 
+#conf-title.page-header {
+  border-bottom: none;
+}
+
 p.authors {
   margin-bottom: 5px;
   color: #808080;
@@ -98,12 +102,22 @@ footer {
   opacity: 0.5;
 }
 
+.conf-row {
+  margin-bottom: 5px;
+}
+
+.conf-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+
 .deadline, .meta {
   font-size: 13px;
 }
 
 .timer {
   font-size: 20px;
+  font-weight: 500;
 }
 
 .checkbox {
