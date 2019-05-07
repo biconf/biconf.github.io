@@ -1,14 +1,4 @@
       
-- name: ICMI
-  year: 2019
-  id: icmi19
-  link: https://icmi.acm.org/2019/index.php?id=home
-  deadline: "2019-05-07 23:59:59"
-  timezone: TBA
-  date: October 14-18, 2019
-  place: Suzhou, China
-  sub: ML
-
 - name: EMNLP
   year: 2019
   id: emnlp19
@@ -278,3 +268,13 @@
 #  date: September 10-12, 2019
 #  place: Cardiff, UK
 #  sub: CV
+
+#- name: ICMI
+#  year: 2019
+#  id: icmi19
+#  link: https://icmi.acm.org/2019/index.php?id=home
+#  deadline: "2019-05-07 23:59:59"
+#  timezone: TBA
+#  date: October 14-18, 2019
+#  place: Suzhou, China
+#  sub: ML
