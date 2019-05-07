@@ -124,7 +124,7 @@
             }
           });
           document.querySelector('#{{conf.id}} .calendar').appendChild(myCalendar);
-          $('#{{conf.id}} .conf-sub').html("{{conf.sub}}".toLocaleLowerCase());
+          $('#{{conf.id}} .conf-sub').html("{{conf.sub}}".toLocaleUpperCase());
                                                                                                   
           // check if date has passed, add 'past' class to it
           var today = moment();
