@@ -1,17 +1,19 @@
 ---
-- name: ML
+- name: Machine Learning
   sub: ML
-- name: AI
+- name: Artificial Intelligence
   sub: AI
-- name: RO
+- name: Robotics
   sub: RO
-- name: CV
+- name: Computer Vision
   sub: CV
-- name: NLP
+- name: Nantural Language Processing
   sub: NLP
-- name: Cog
+- name: Cognitive Science
   sub: Cog
-- name: Brain
+- name: Brain Science
   sub: Brain
-- name: EC
+- name: Evolutionary Computing
   sub: EC
+- name: Speech/Signal Processing
+  sub: Speech
