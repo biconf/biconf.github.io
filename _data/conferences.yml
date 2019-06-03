@@ -19,6 +19,16 @@
   place: Washington DC, USA
   sub: AI
   
+- name: ICASSP
+  year: 2020
+  id: icassp2020
+  link: https://2020.ieeeicassp.org
+  deadline: "2019-10-21 23:59:59"
+  timezone: TBA
+  date: May 4-8, 2020
+  place: Paris, France
+  sub: Speech  
+  
 #- name: HCOMP
 #  year: 2019
 #  id: hcomp19
