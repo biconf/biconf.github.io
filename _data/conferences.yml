@@ -29,6 +29,16 @@
   place: New York, USA
   sub: AI
   
+- name: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: "2018-09-25 05:59:59"
+  timezone: TBA
+  date: April 30 - May , 2019
+  place: Addis Ababa, Ethiopia
+  sub: ML  
+  
 - name: ICASSP
   year: 2020
   id: icassp2020
@@ -78,26 +88,6 @@
 #  date: July 24-27, 2019
 #  place: Montreal, Canada
 #  sub: Cog
-
-#- name: AAAI
-#  year: 2020
-#  id: aaai20
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: TBA
-#  place: TBA
-#  sub: AI
-
-#- name: ICLR
-#  year: 2019
-#  id: iclr19
-#  link: http://iclr.cc/
-#  deadline: "2018-09-27 16:59:59"
-#  timezone: EST
-#  date: May 6-9, 2019
-#  place: New Orleans, Louisiana, US
-#  sub: ML
 
 #- name: CNS
 #  year: 2019
