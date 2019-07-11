@@ -49,6 +49,16 @@
   place: Barcelona, Spain
   sub: SPEECH
   
+- name: COGSCI
+  year: 2020
+  id: cogsci20
+  link: https://cognitivesciencesociety.org/future-conferences/
+  deadline: "2020-02-03 23:59:59"
+  timezone: Etc/GMT+11
+  date: July 29 - August 1, 2020
+  place: Toronto, Canada
+  sub: COG  
+  
 #- name: HCOMP
 #  year: 2019
 #  id: hcomp19
