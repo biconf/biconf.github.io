@@ -49,6 +49,26 @@
   place: Barcelona, Spain
   sub: SPEECH
   
+- name: CVPR
+  year: 2020
+  id: cvpr20
+  link: http://cvpr2020.thecvf.com/
+  deadline: "2019-11-15 23:59:59"
+  timezone: America/Los_Angeles
+  date: June 14-19, 2019
+  place: Seattle, Washington
+  sub: CV
+
+#- name: NAACL
+#  year: 2020
+#  id: naacl20
+#  link: http://naacl2020.org/
+#  deadline: "2018-12-10 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: June 2-7, 2019
+#  place: Minneapolis, USA
+#  sub: NLP
+  
 - name: COGSCI
   year: 2020
   id: cogsci20
@@ -118,26 +138,6 @@
 #  date: Feb 28 - March 3, 2019
 #  place: Lisbon, Portugal
 #  sub: BRAIN
-
-#- name: CVPR
-#  year: 2019
-#  id: cvpr19
-#  link: http://cvpr2019.thecvf.com/
-#  deadline: "2018-11-16 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: June 15-21, 2019
-#  place: Long Beach, USA
-#  sub: CV
-
-#- name: NAACL
-#  year: 2019
-#  id: naacl19
-#  link: http://naacl2019.org/
-#  deadline: "2018-12-10 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: June 2-7, 2019
-#  place: Minneapolis, USA
-#  sub: NLP
 
 #- name: CEC
 #  year: 2019
