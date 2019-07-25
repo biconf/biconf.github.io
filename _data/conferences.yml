@@ -58,16 +58,6 @@
   date: June 14-19, 2019
   place: Seattle, Washington
   sub: CV
-
-#- name: NAACL
-#  year: 2020
-#  id: naacl20
-#  link: http://naacl2020.org/
-#  deadline: "2018-12-10 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: June 2-7, 2019
-#  place: Minneapolis, USA
-#  sub: NLP
   
 - name: COGSCI
   year: 2020
@@ -78,7 +68,17 @@
   date: July 29 - August 1, 2020
   place: Toronto, Canada
   sub: COG
-  
+
+#- name: NAACL
+#  year: 2020
+#  id: naacl20
+#  link: http://naacl2020.org/
+#  deadline: "2018-12-10 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: June 2-7, 2019
+#  place: Minneapolis, USA
+#  sub: NLP
+
 #- name: HCOMP
 #  year: 2019
 #  id: hcomp19
