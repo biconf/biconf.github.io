@@ -1,14 +1,4 @@
-          
-- name: AAAI-FSS
-  year: 2019
-  id: aaai-fss19
-  link: https://aaai.org/Symposia/Fall/fss19.php
-  deadline: "2019-07-26 23:59:59"
-  timezone: TBA
-  date: November 7-9, 2019
-  place: Washington DC, USA
-  sub: AI
-  
+            
 - name: AAAI
   year: 2020
   id: aaai20
@@ -78,16 +68,6 @@
 #  date: June 2-7, 2019
 #  place: Minneapolis, USA
 #  sub: NLP
-
-#- name: HCOMP
-#  year: 2019
-#  id: hcomp19
-#  link: https://www.humancomputation.com
-#  deadline: "2019-06-05 16:59:59"
-#  timezone: EST
-#  date: October 29-30, 2019
-#  place: Skamania Lodge, USA
-#  sub: AI
 
 #- name: AGI
 #  year: 2019
@@ -298,3 +278,13 @@
 #  date: October 30 - November 1, 2019
 #  place: Osaka, Japan
 #  sub: RO
+
+#- name: AAAI-FSS
+#  year: 2019
+#  id: aaai-fss19
+#  link: https://aaai.org/Symposia/Fall/fss19.php
+#  deadline: "2019-07-26 23:59:59"
+#  timezone: TBA
+#  date: November 7-9, 2019
+#  place: Washington DC, USA
+#  sub: AI
