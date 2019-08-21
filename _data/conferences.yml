@@ -48,6 +48,16 @@
   date: June 14-19, 2020
   place: Seattle, USA
   sub: CV
+
+- name: ACL
+  year: 2020
+  id: acl20
+  link: http://acl2020.org/
+  deadline: "2019-12-09 23:59:59"
+  timezone: America/Los_Angeles
+  date: July 5-10, 2020
+  place: Seattle, USA
+  sub: NLP
   
 - name: COGSCI
   year: 2020
