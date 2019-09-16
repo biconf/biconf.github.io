@@ -49,6 +49,16 @@
   place: Seattle, USA
   sub: NLP
   
+- name: IJCAI
+  year: 2020
+  id: ijcai20
+  link: https://ijcai20.org/
+  deadline: "2020-01-21 23:59:59"
+  timezone: Etc/GMT+12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: AI  
+  
 - name: COGSCI
   year: 2020
   id: cogsci20
