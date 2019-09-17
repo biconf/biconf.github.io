@@ -59,6 +59,16 @@
   place: Toronto, Canada
   sub: COG
   
+- name: ICML
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 15:59:59"
+  timezone: America/Los_Angeles
+  date: July 12-18, 2020
+  place: Vienna, Austria
+  sub: ML  
+  
 - name: IROS
   year: 2020
   id: iros2020
@@ -147,16 +157,6 @@
 #  timezone: TBA
 #  date: July 14-19, 2019
 #  place: Budapest, Hungary
-#  sub: ML
-
-#- name: ICML
-#  year: 2019
-#  id: icml19
-#  link: https://icml.cc/Conferences/2019
-#  deadline: "2019-01-23 15:59:59"
-#  timezone: America/Los_Angeles
-#  date: June 10-15, 2019
-#  place: Long Beach, USA
 #  sub: ML
   
 #- name: RSS
