@@ -1,14 +1,4 @@
-            
-- name: ICRA
-  year: 2020
-  id: icra20
-  link: https://icra2020.org/
-  deadline: "2019-09-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: May 31-June 4, 2020
-  place: Paris, France
-  sub: RO
-  
+              
 - name: ICLR
   year: 2020
   id: iclr20
@@ -68,6 +58,16 @@
   date: July 29 - August 1, 2020
   place: Toronto, Canada
   sub: COG
+  
+- name: IROS
+  year: 2020
+  id: iros2020
+  link: http://www.iros2020.org
+  deadline: "2020-03-02 23:59:59"
+  timezone: America/Los_Angeles
+  date: October 24-30, 2020
+  place: Las Vegas, USA
+  sub: RO  
 
 #- name: NAACL
 #  year: 2020
@@ -158,16 +158,6 @@
 #  date: June 10-15, 2019
 #  place: Long Beach, USA
 #  sub: ML
-
-#- name: COGSCI
-#  year: 2019
-#  id: cogsci19
-#  link: http://www.cognitivesciencesociety.org/conference/cogsci-2019/
-#  deadline: "2019-02-01 23:59:59"
-#  timezone: Etc/GMT+11
-#  date: July 24-27, 2019
-#  place: Montreal, Canada
-#  sub: COG
   
 #- name: RSS
 #  year: 2019
@@ -188,36 +178,6 @@
 #  date: July 13-17, 2019
 #  place: Prague, Czech
 #  sub: EC
-
-#- name: IJCAI
-#  year: 2019
-#  id: ijcai19
-#  link: https://ijcai19.org/
-#  deadline: "2019-02-25 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: August 10-16, 2019
-#  place: Macao, China
-#  sub: AI
-
-#- name: IROS
-#  year: 2019
-#  id: iros2019
-#  link: http://www.iros2019.org
-#  deadline: "2019-03-01 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: November 3-8, 2019
-#  place: Macau, China
-#  sub: RO
-
-#- name: ACL
-#  year: 2019
-#  id: acl19
-#  link: http://acl2019.org/
-#  deadline: "2019-03-04 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: July 28-August 2, 2019
-#  place: Florence, Italy
-#  sub: NLP
 
 #- name: ICCV
 #  year: 2019
@@ -308,3 +268,13 @@
 #  date: February 7-12, 2020
 #  place: New York, USA
 #  sub: AI
+
+#- name: ICRA
+#  year: 2020
+#  id: icra20
+#  link: https://icra2020.org/
+#  deadline: "2019-09-15 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: May 31-June 4, 2020
+#  place: Paris, France
+#  sub: RO
