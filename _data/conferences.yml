@@ -1,14 +1,4 @@
-              
-- name: ICLR
-  year: 2020
-  id: iclr20
-  link: http://iclr.cc/
-  deadline: "2019-09-25 05:59:59"
-  timezone: TBA
-  date: Starts April 30, 2020
-  place: Addis Ababa, Ethiopia
-  sub: ML
-  
+                
 - name: ICASSP
   year: 2020
   id: icassp2020
@@ -278,3 +268,15 @@
 #  date: May 31-June 4, 2020
 #  place: Paris, France
 #  sub: RO
+
+#- name: ICLR
+#  year: 2020
+#  id: iclr20
+#  link: http://iclr.cc/
+#  deadline: "2019-09-25 05:59:59"
+#  timezone: TBA
+#  date: Starts April 30, 2020
+#  place: Addis Ababa, Ethiopia
+#  sub: ML
+
+
