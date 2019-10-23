@@ -1,14 +1,4 @@
                 
-- name: ICASSP
-  year: 2020
-  id: icassp2020
-  link: https://2020.ieeeicassp.org
-  deadline: "2019-10-21 23:59:59"
-  timezone: TBA
-  date: May 4-8, 2020
-  place: Barcelona, Spain
-  sub: SPEECH
-  
 - name: CVPR
   year: 2020
   id: cvpr20
@@ -279,4 +269,12 @@
 #  place: Addis Ababa, Ethiopia
 #  sub: ML
 
-
+#- name: ICASSP
+#  year: 2020
+#  id: icassp2020
+#  link: https://2020.ieeeicassp.org
+#  deadline: "2019-10-21 23:59:59"
+#  timezone: TBA
+#  date: May 4-8, 2020
+#  place: Barcelona, Spain
+#  sub: SPEECH
