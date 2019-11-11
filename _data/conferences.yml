@@ -58,6 +58,16 @@
   date: October 24-30, 2020
   place: Las Vegas, USA
   sub: RO
+  
+- name: ECCV
+  year: 2020
+  id: eccv20
+  link: https://eccv2020.eu
+  deadline: "2020-03-05 23:59:59"
+  timezone: TBA
+  date: August 23-28, 2020
+  place: Glasgow, Scotland
+  sub: CV  
 
 #- name: NAACL
 #  year: 2020
