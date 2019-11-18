@@ -1,14 +1,4 @@
                 
-- name: CVPR
-  year: 2020
-  id: cvpr20
-  link: http://cvpr2020.thecvf.com/
-  deadline: "2019-11-15 23:59:59"
-  timezone: America/Los_Angeles
-  date: June 14-19, 2020
-  place: Seattle, USA
-  sub: CV
-
 - name: ACL
   year: 2020
   id: acl20
@@ -28,6 +18,16 @@
   date: July 11-17, 2020
   place: Yokohama, Japan
   sub: AI
+  
+- name: RSS
+  year: 2020
+  id: rss20
+  link: http://www.roboticsconference.org/
+  deadline: "2020-01-30 23:59:00"
+  timezone: America/Los_Angeles
+  date: July 12-16, 2020
+  place: Oregon, USA
+  sub: RO  
   
 - name: COGSCI
   year: 2020
@@ -138,27 +138,7 @@
 #  date: June 10-13, 2019
 #  place: Wellington, New Zealand
 #  sub: EC
-
-#- name: IJCNN
-#  year: 2019
-#  id: ijcnn19
-#  link: https://www.ijcnn.org
-#  deadline: "2019-01-15 23:59:59"
-#  timezone: TBA
-#  date: July 14-19, 2019
-#  place: Budapest, Hungary
-#  sub: ML
-  
-#- name: RSS
-#  year: 2019
-#  id: rss19
-#  link: http://www.roboticsconference.org/
-#  deadline: "2019-02-01 23:59:00"
-#  timezone: America/Los_Angeles
-#  date: June 22-26, 2019
-#  place: Freiburg, Germany
-#  sub: RO
-  
+    
 #- name: GECCO
 #  year: 2019
 #  id: gecco19
@@ -288,3 +268,13 @@
 #  date: May 4-8, 2020
 #  place: Barcelona, Spain
 #  sub: SPEECH
+
+#- name: CVPR
+#  year: 2020
+#  id: cvpr20
+#  link: http://cvpr2020.thecvf.com/
+#  deadline: "2019-11-15 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: June 14-19, 2020
+#  place: Seattle, USA
+#  sub: CV
