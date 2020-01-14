@@ -1,13 +1,4 @@
                 
-- name: ACL
-  year: 2020
-  id: acl20
-  link: http://acl2020.org/
-  deadline: "2019-12-09 23:59:59"
-  timezone: America/Los_Angeles
-  date: July 5-10, 2020
-  place: Seattle, USA
-  sub: NLP
   
 - name: IJCAI
   year: 2020
@@ -129,6 +120,16 @@
 #  place: Lisbon, Portugal
 #  sub: BRAIN
 
+#- name: ACL
+#  year: 2020
+#  id: acl20
+#  link: http://acl2020.org/
+#  deadline: "2019-12-09 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: July 5-10, 2020
+#  place: Seattle, USA
+#  sub: NLP
+
 #- name: CEC
 #  year: 2019
 #  id: cec19
@@ -189,15 +190,15 @@
 #  place: Suzhou, China
 #  sub: ML
 
-#- name: EMNLP
-#  year: 2019
-#  id: emnlp19
-#  link: https://www.emnlp-ijcnlp2019.org/
-#  deadline: "2019-05-21 23:59:59"
-#  timezone: Etc/GMT-7
-#  date: November 5-7, 2019
-#  place: Hong Kong, China
-#  sub: NLP
+- name: EMNLP
+  year: 2020
+  id: emnlp20
+  link: https://2020.emnlp.org/
+  deadline: "2020-05-08 23:59:59"
+  timezone: Etc/GMT-7
+  date: November 8-10, 2020
+  place: Punta Cana, Dominican Republic
+  sub: NLP
 
 #- name: NeurIPS
 #  year: 2019
