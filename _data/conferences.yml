@@ -1,64 +1,64 @@
                 
   
-- name: IJCAI
-  year: 2020
-  id: ijcai20
-  link: https://ijcai20.org/
-  deadline: "2020-01-21 23:59:59"
-  timezone: Etc/GMT+12
-  date: July 11-17, 2020
-  place: Yokohama, Japan
-  sub: AI
+#- name: IJCAI
+#  year: 2020
+#  id: ijcai20
+#  link: https://ijcai20.org/
+#  deadline: "2020-01-21 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: July 11-17, 2020
+#  place: Yokohama, Japan
+#  sub: AI
   
-- name: RSS
-  year: 2020
-  id: rss20
-  link: http://www.roboticsconference.org/
-  deadline: "2020-01-30 23:59:00"
-  timezone: America/Los_Angeles
-  date: July 12-16, 2020
-  place: Oregon, USA
-  sub: RO
+#- name: RSS
+#  year: 2020
+#  id: rss20
+#  link: http://www.roboticsconference.org/
+#  deadline: "2020-01-30 23:59:00"
+#  timezone: America/Los_Angeles
+#  date: July 12-16, 2020
+#  place: Oregon, USA
+#  sub: RO
   
-- name: COGSCI
-  year: 2020
-  id: cogsci20
-  link: https://cognitivesciencesociety.org/future-conferences/
-  deadline: "2020-02-03 23:59:59"
-  timezone: Etc/GMT+11
-  date: July 29 - August 1, 2020
-  place: Toronto, Canada
-  sub: COG
+#- name: COGSCI
+#  year: 2020
+#  id: cogsci20
+#  link: https://cognitivesciencesociety.org/future-conferences/
+#  deadline: "2020-02-03 23:59:59"
+#  timezone: Etc/GMT+11
+#  date: July 29 - August 1, 2020
+#  place: Toronto, Canada
+#  sub: COG
   
-- name: ICML
-  year: 2020
-  id: icml20
-  link: https://icml.cc/Conferences/2020
-  deadline: "2020-02-07 15:59:59"
-  timezone: America/Los_Angeles
-  date: July 12-18, 2020
-  place: Vienna, Austria
-  sub: ML
+#- name: ICML
+#  year: 2020
+#  id: icml20
+#  link: https://icml.cc/Conferences/2020
+#  deadline: "2020-02-07 15:59:59"
+#  timezone: America/Los_Angeles
+#  date: July 12-18, 2020
+#  place: Vienna, Austria
+#  sub: ML
   
-- name: IROS
-  year: 2020
-  id: iros2020
-  link: http://www.iros2020.org
-  deadline: "2020-03-02 23:59:59"
-  timezone: America/Los_Angeles
-  date: October 24-30, 2020
-  place: Las Vegas, USA
-  sub: RO
+#- name: IROS
+#  year: 2020
+#  id: iros2020
+#  link: http://www.iros2020.org
+#  deadline: "2020-03-02 23:59:59"
+#  timezone: America/Los_Angeles
+#  date: October 24-30, 2020
+#  place: Las Vegas, USA
+#  sub: RO
   
-- name: ECCV
-  year: 2020
-  id: eccv20
-  link: https://eccv2020.eu
-  deadline: "2020-03-05 23:59:59"
-  timezone: TBA
-  date: August 23-28, 2020
-  place: Glasgow, Scotland
-  sub: CV
+#- name: ECCV
+#  year: 2020
+#  id: eccv20
+#  link: https://eccv2020.eu
+#  deadline: "2020-03-05 23:59:59"
+#  timezone: TBA
+#  date: August 23-28, 2020
+#  place: Glasgow, Scotland
+#  sub: CV
 
 #- name: NAACL
 #  year: 2020
@@ -200,25 +200,25 @@
   place: Punta Cana, Dominican Republic
   sub: NLP
 
-#- name: NeurIPS
-#  year: 2019
-#  id: neurips19
-#  link: https://neurips.cc/Conferences/2019
-#  deadline: "2019-05-23 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: TBA
-#  place: Vancouver, Canada
-#  sub: ML
+- name: NeurIPS
+  year: 2020
+  id: neurips20
+  link: https://nips.cc/
+  deadline: "2020-05-05 23:59:59"
+  timezone: Canada/Vancouver
+  date: December 6-12
+  place: Vancouver, Canada
+  sub: ML
 
-#- name: CoRL
-#  year: 2019
-#  id: corl2019
-#  link: https://www.robot-learning.org/
-#  deadline: "2019-07-07 23:59:59"
-#  timezone: Etc/GMT
-#  date: October 30 - November 1, 2019
-#  place: Osaka, Japan
-#  sub: RO
+- name: CoRL
+  year: 2020
+  id: corl2020
+  link: https://www.robot-learning.org/
+  deadline: "2020-07-07 23:59:59"
+  timezone: Etc/GMT
+  date: November 14-16
+  place: MIT
+  sub: RO
 
 #- name: AAAI-FSS
 #  year: 2019
