@@ -1,5 +1,4 @@
                 
-  
 #- name: IJCAI
 #  year: 2020
 #  id: ijcai20
@@ -194,7 +193,7 @@
   year: 2020
   id: emnlp20
   link: https://2020.emnlp.org/
-  deadline: "2020-05-08 23:59:59"
+  deadline: "2020-06-01 23:59:59"
   timezone: Etc/GMT-7
   date: November 8-10, 2020
   place: Punta Cana, Dominican Republic
@@ -204,7 +203,7 @@
   year: 2020
   id: neurips20
   link: https://nips.cc/
-  deadline: "2020-05-05 23:59:59"
+  deadline: "2020-05-27 23:59:59"
   timezone: Canada/Vancouver
   date: December 6-12
   place: Vancouver, Canada
@@ -217,7 +216,7 @@
   deadline: "2020-07-07 23:59:59"
   timezone: Etc/GMT
   date: November 14-16
-  place: MIT
+  place: MIT, USA
   sub: RO
 
 #- name: AAAI-FSS
