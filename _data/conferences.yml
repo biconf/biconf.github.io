@@ -208,6 +208,16 @@
   date: February 2-9, 2021
   place: Vancouver, Canada
   sub: AI
+  
+- name: CVPR
+  year: 2021
+  id: cvpr21
+  link: http://cvpr2021.thecvf.com/
+  deadline: "2020-11-16 23:59:59"
+  timezone: TBA
+  date: June 19-25, 2021
+  place: Nashville, USA
+  sub: CV  
 
 #- name: AAAI-FSS
 #  year: 2019
@@ -248,16 +258,6 @@
 #  date: May 4-8, 2020
 #  place: Barcelona, Spain
 #  sub: SPEECH
-
-#- name: CVPR
-#  year: 2020
-#  id: cvpr20
-#  link: http://cvpr2020.thecvf.com/
-#  deadline: "2019-11-15 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: June 14-19, 2020
-#  place: Seattle, USA
-#  sub: CV
 
 #- name: EMNLP
 #  year: 2020
