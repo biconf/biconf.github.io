@@ -139,15 +139,15 @@
   place: Krakow, Poland
   sub: EC
     
-#- name: GECCO
-#  year: 2019
-#  id: gecco19
-#  link: https://gecco-2019.sigevo.org/index.html/tiki-index.php
-#  deadline: "2019-02-06 23:59:59"
-#  timezone: Etc/GMT+10
-#  date: July 13-17, 2019
-#  place: Prague, Czech
-#  sub: EC
+- name: GECCO
+  year: 2021
+  id: gecco21
+  link: https://gecco-2021.sigevo.org/HomePage
+  deadline: "2021-01-28 23:59:59"
+  timezone: Etc/GMT+10
+  date: July 10-14, 2021
+  place: Lille, France
+  sub: EC
 
 - name: ICCV
   year: 2021
@@ -179,15 +179,15 @@
 #  place: Cardiff, UK
 #  sub: CV
 
-#- name: ICMI
-#  year: 2019
-#  id: icmi19
-#  link: https://icmi.acm.org/2019/index.php?id=home
-#  deadline: "2019-05-07 23:59:59"
-#  timezone: TBA
-#  date: October 14-18, 2019
-#  place: Suzhou, China
-#  sub: ML
+- name: ICMI
+  year: 2021
+  id: icmi21
+  link: http://icmi.acm.org/2021/
+  deadline: "2021-05-07 23:59:59"
+  timezone: TBA
+  date: October 18-22, 2021
+  place: Montreal, Canada
+  sub: ML
 
 #- name: CoRL
 #  year: 2020
@@ -250,9 +250,9 @@
 #  sub: ML
 
 #- name: ICASSP
-#  year: 2020
-#  id: icassp2020
-#  link: https://2020.ieeeicassp.org
+#  year: 2021
+#  id: icassp2021
+#  link: https://2021.ieeeicassp.org/
 #  deadline: "2019-10-21 23:59:59"
 #  timezone: TBA
 #  date: May 4-8, 2020
