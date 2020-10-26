@@ -1,13 +1,13 @@
                 
-#- name: IJCAI
-#  year: 2020
-#  id: ijcai20
-#  link: https://ijcai20.org/
-#  deadline: "2020-01-21 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: July 11-17, 2020
-#  place: Yokohama, Japan
-#  sub: AI
+- name: IJCAI
+  year: 2021
+  id: ijcai21
+  link: https://ijcai-21.org/
+  deadline: "2021-01-19 23:59:59"
+  timezone: Etc/GMT+12
+  date: August 21-26, 2021
+  place: Montreal, Canada
+  sub: AI
   
 #- name: RSS
 #  year: 2020
@@ -19,25 +19,25 @@
 #  place: Oregon, USA
 #  sub: RO
   
-#- name: COGSCI
-#  year: 2020
-#  id: cogsci20
-#  link: https://cognitivesciencesociety.org/future-conferences/
-#  deadline: "2020-02-03 23:59:59"
-#  timezone: Etc/GMT+11
-#  date: July 29 - August 1, 2020
-#  place: Toronto, Canada
-#  sub: COG
+- name: COGSCI
+  year: 2020
+  id: cogsci20
+  link: https://cognitivesciencesociety.org/future-conferences/
+  deadline: "2020-02-03 23:59:59"
+  timezone: Etc/GMT+11
+  date: July 26 - 29, 2021
+  place: Vienna, Austria
+  sub: COG
   
-#- name: ICML
-#  year: 2020
-#  id: icml20
-#  link: https://icml.cc/Conferences/2020
-#  deadline: "2020-02-07 15:59:59"
-#  timezone: America/Los_Angeles
-#  date: July 12-18, 2020
-#  place: Vienna, Austria
-#  sub: ML
+- name: ICML
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: "2020-02-07 15:59:59"
+  timezone: America/Los_Angeles
+  date: July 18-24, 2021
+  place: Vienna, Austria
+  sub: ML
   
 #- name: IROS
 #  year: 2020
@@ -59,15 +59,15 @@
 #  place: Glasgow, Scotland
 #  sub: CV
 
-#- name: NAACL
-#  year: 2020
-#  id: naacl20
-#  link: http://naacl2020.org/
-#  deadline: "2018-12-10 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: June 2-7, 2019
-#  place: Minneapolis, USA
-#  sub: NLP
+- name: NAACL
+  year: 2021
+  id: naacl21
+  link: http://2021.naacl.org/
+  deadline: "2020-11-24 23:59:59"
+  timezone: Etc/GMT+12
+  date: June 6-11, 2021
+  place: Mexico City, Mexico
+  sub: NLP
 
 #- name: AGI
 #  year: 2019
@@ -79,15 +79,15 @@
 #  place: Montreal, Canada
 #  sub: Cog
 
-#- name: BICA
-#  year: 2019
-#  id: cogsci19
-#  link: TBA
-#  deadline: TBA
-#  timezone: TBA
-#  date: July 24-27, 2019
-#  place: Montreal, Canada
-#  sub: Cog
+- name: BICA
+  year: 2020
+  id: cogsci20
+  link:  http://bica2020.org/
+  deadline: "2020-12-05 23:59:59"
+  timezone: Etc/GMT+12
+  date: November 10-15, 2020
+  place: Online
+  sub: Cog
 
 #- name: CNS
 #  year: 2019
@@ -99,45 +99,45 @@
 #  place: Sanfrancisco, USA
 #  sub: Brain
 
-#- name: AAAI SSS
-#  year: 2019
-#  id: aaai-sss19
-#  link: https://aaai.org/Symposia/Spring/sss19.php
-#  deadline: "2018-11-02 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: March 25-27, 2019
-#  place: Palo Alto, California
-#  sub: AI
+- name: AAAI SSS
+  year: 2021
+  id: aaai-sss21
+  link: https://aaai.org/Symposia/Spring/sss21.php
+  deadline: "2020-11-01 23:59:59"
+  timezone: America/Los_Angeles
+  date: March 22-24, 2021
+  place: Stanford, USA
+  sub: AI
 
-#- name: COSYNE
-#  year: 2019
-#  id: cosyne19
-#  link: http://www.cosyne.org/c/index.php?title=Cosyne_19
-#  deadline: "2018-11-15 23:59:59"
-#  timezone: Etc/GMT-1
-#  date: Feb 28 - March 3, 2019
-#  place: Lisbon, Portugal
-#  sub: BRAIN
+- name: COSYNE
+  year: 2021
+  id: cosyne21
+  link: http://www.cosyne.org/c/index.php?title=Cosyne_21
+  deadline: "2020-11-12 23:59:59"
+  timezone: Etc/GMT-1
+  date: Feb 24- 26, 2021
+  place: Online
+  sub: BRAIN
 
-#- name: ACL
-#  year: 2020
-#  id: acl20
-#  link: http://acl2020.org/
-#  deadline: "2019-12-09 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: July 5-10, 2020
-#  place: Seattle, USA
-#  sub: NLP
+- name: ACL
+  year: 2021
+  id: acl21
+  link: http://2021.aclweb.org/
+  deadline: "2021-02-02 23:59:59"
+  timezone: Etc/GMT+12
+  date: August 2-4, 2021
+  place: Bangkok, Thailand
+  sub: NLP
 
-#- name: CEC
-#  year: 2019
-#  id: cec19
-#  link: http://cec2019.org/index.html
-#  deadline: "2019-01-07 23:59:59"
-#  timezone: TBA
-#  date: June 10-13, 2019
-#  place: Wellington, New Zealand
-#  sub: EC
+- name: CEC
+  year: 2021
+  id: cec21
+  link: https://cec2021.mini.pw.edu.pl/en
+  deadline: "2021-01-31 23:59:59"
+  timezone: TBA
+  date: June 28- July 01, 2021
+  place: Krakow, Poland
+  sub: EC
     
 #- name: GECCO
 #  year: 2019
@@ -149,15 +149,15 @@
 #  place: Prague, Czech
 #  sub: EC
 
-#- name: ICCV
-#  year: 2019
-#  id: iccv19
-#  link: http://iccv2019.thecvf.com
-#  deadline: "2019-03-22 23:59:59"
-#  timezone: US/Pacific
-#  date: October 27 - November 3, 2019
-#  place: Seoul, Korea
-#  sub: CV
+- name: ICCV
+  year: 2021
+  id: iccv21
+  link: http://iccv2021.thecvf.com
+  deadline: "2021-03-18 23:59:59"
+  timezone: US/Pacific
+  date: October 11 - 17, 2021
+  place: Montreal, Canada
+  sub: CV
 
 #- name: ACML
 #  year: 2019
@@ -189,25 +189,25 @@
 #  place: Suzhou, China
 #  sub: ML
 
-- name: CoRL
-  year: 2020
-  id: corl2020
-  link: https://www.robot-learning.org/
-  deadline: "2020-07-07 23:59:59"
-  timezone: Etc/GMT
-  date: November 14-16
-  place: MIT, USA
-  sub: RO
+#- name: CoRL
+#  year: 2020
+#  id: corl2020
+#  link: https://www.robot-learning.org/
+#  deadline: "2020-07-07 23:59:59"
+#  timezone: Etc/GMT
+#  date: November 14-16
+#  place: MIT, USA
+#  sub: RO
 
-- name: AAAI
-  year: 2020
-  id: aaai22
-  link: https://aaai.org/Conferences/AAAI-21/
-  deadline: "2020-09-09 23:59:59"
-  timezone: TBA
-  date: February 2-9, 2021
-  place: Vancouver, Canada
-  sub: AI
+#- name: AAAI
+#  year: 2020
+#  id: aaai22
+#  link: https://aaai.org/Conferences/AAAI-21/
+#  deadline: "2020-09-09 23:59:59"
+#  timezone: TBA
+#  date: February 2-9, 2021
+#  place: Vancouver, Canada
+#  sub: AI
   
 - name: CVPR
   year: 2021
@@ -229,15 +229,15 @@
 #  place: Washington DC, USA
 #  sub: AI
 
-#- name: ICRA
-#  year: 2020
-#  id: icra20
-#  link: https://icra2020.org/
-#  deadline: "2019-09-15 23:59:59"
-#  timezone: America/Los_Angeles
-#  date: May 31-June 4, 2020
-#  place: Paris, France
-#  sub: RO
+- name: ICRA
+  year: 2021
+  id: icra21
+  link: https://icra2021.org/
+  deadline: "2020-10-31 23:59:59"
+  timezone: Etc/GMT+12
+  date: May 30-June 5, 2021
+  place: Online
+  sub: RO
 
 #- name: ICLR
 #  year: 2020
